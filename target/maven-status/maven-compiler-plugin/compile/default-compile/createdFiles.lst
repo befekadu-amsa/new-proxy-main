@@ -1,0 +1,12 @@
+com\amsa\proxy\viewModel\columbiasc\SearchParams.class
+com\amsa\proxy\viewModel\columbiasc\AcademicHistory.class
+com\amsa\proxy\viewModel\columbiasc\BiographMaster.class
+com\amsa\proxy\viewModel\ColleagueAdapterRequest.class
+com\amsa\proxy\ProxyApplication.class
+com\amsa\proxy\controller\ProxyController.class
+com\amsa\proxy\viewModel\columbiasc\ParentContact.class
+com\amsa\proxy\viewModel\HttpMethod.class
+com\amsa\proxy\viewModel\columbiasc\AddressContact.class
+com\amsa\proxy\viewModel\columbiasc\Candidacy.class
+com\amsa\proxy\viewModel\columbiasc\NameMaster.class
+com\amsa\proxy\controller\ColumbiascController.class
